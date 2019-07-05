@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HairSalon1Solution/HairSalon1Solution.iml" filepath="$PROJECT_DIR$/HairSalon1Solution/HairSalon1Solution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/HairSalon1Starter/HairSalon1Starter.iml" filepath="$PROJECT_DIR$/HairSalon1Starter/HairSalon1Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HairSalon2Solution/HairSalon2Solution.iml" filepath="$PROJECT_DIR$/HairSalon2Solution/HairSalon2Solution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/HairSalon2Starter/HairSalon2Starter.iml" filepath="$PROJECT_DIR$/HairSalon2Starter/HairSalon2Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HairSalon3Solution/HairSalon3Solution.iml" filepath="$PROJECT_DIR$/HairSalon3Solution/HairSalon3Solution.iml" group="Solution" />
+      <module fileurl="file://$PROJECT_DIR$/HairSalon3Starter/HairSalon3Starter.iml" filepath="$PROJECT_DIR$/HairSalon3Starter/HairSalon3Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleDrawingPlayer/SimpleDrawingPlayer.iml" filepath="$PROJECT_DIR$/SimpleDrawingPlayer/SimpleDrawingPlayer.iml" />
+    </modules>
+  </component>
+</project>
